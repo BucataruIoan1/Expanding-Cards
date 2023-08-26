@@ -59,6 +59,11 @@ body {
     flex: 0.5;
 }
 
+.panel:nth-child(6) {
+    background-image: url('https://images5.alphacoders.com/705/705144.jpg');
+    flex: 0.5;
+}
+
 .panel.active {
     flex: 5;
     width: 100%;
